@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+.nav1 {
+ display: inline-block;
+   background-color: yellowgreen;
+   padding-right: 40px;
+   margin-bottom: 20px;
+
+}
+.nav1 li{
+    display: inline-block;
+    border: 1px solid rgb(201, 97, 27);
+    background-color: rgb(201, 97, 27);
+   
+    border-radius: 30px;
+    padding: 10px 15px;
+}
+div{
+    background-color: blue;
+    padding: 10px 10px; 
+}
+div li{
+ 
+ display:inline-block;
+ background-color: rgb(243, 243, 243); 
+ margin-left: 50%;
+padding: 5px 10px;
+border-radius: 30px;
+
+}
+.nav2{
+   
+    background-color: rgb(50, 182, 205);
+  padding: 8px 8px;
+  margin: 20px 0;
+}
+
+.nav2 li{
+    
+    display: inline-block;
+    background-color: rgb(189, 150, 189);
+    
+    border-radius: 30px;
+    padding: 10px 15px;
+    
+}
+.nav2 ul{
+    padding-left: 87%;
+}
