@@ -1,0 +1,33 @@
+div {
+    padding: 25px;
+}  
+
+#box1 {
+    background-color: rgb(255, 85, 56);
+    display: inline-block;
+}
+
+#box2 {
+    background-color: green;
+    margin: 10px 0;
+    text-align: center;
+    margin-right: 20px;
+}
+
+#box3 {
+    background-color: orchid;
+    margin: 10px 0;
+    text-align: right;
+    margin-right: 20px;
+}
+
+a {
+    background-color: yellow;
+    padding: 10px 15px;
+    border-radius: 17px;
+    color: black;
+}
+
+img {
+    margin-left: -9px;
+}
