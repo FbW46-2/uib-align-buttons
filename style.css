@@ -1,0 +1,48 @@
+header, main, footer {
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 1px 6px 1px 6px;
+}
+
+header {
+    background-color: darkred;
+    width: max-content;
+    text-align: center;
+}
+main {
+    background-color: olive;
+    text-align: center;
+    padding-top: 18px;
+    height: 32px;
+}
+
+footer {
+    background-color:rgb(253, 147, 165);
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+a {
+    background-color: rgb(243, 192, 64);
+    border-radius: 16px;
+    padding: 6px 10px;
+    margin-left: 6px;
+}
+.red {
+    padding-right: 5px;
+}
+
+.pink {
+    margin-right: 20px;
+}
+
+
